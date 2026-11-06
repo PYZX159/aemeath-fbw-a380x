@@ -1,0 +1,38 @@
+# Local application profiles, credentials and build/check scratch space
+/.local/
+/gimp-profile/
+/gimp-helper-profile/
+__pycache__/
+*.pyc
+*.log
+*-log.txt
+/validation-result.txt
+
+# Blender backup files and external FlyByWire geometry dependencies
+*.blend
+*.blend[0-9]
+*.npz
+/geometry/qa/
+/geometry/gear-inspection/*visibility*.json
+/geometry/gear-inspection/installed-gltf-gear-node-evidence.json
+/geometry/base-geometry-report.json
+
+# Temporary tracing, inspection images and progress output
+/trace_starboard_grid_gimp.py
+/artwork/assets/starboard-trace-grid.*
+/artwork/clean-template/previews/
+/artwork/clean-template/*progress.txt
+/artwork/clean-template/*check.json
+/artwork/clean-template/export-report.json
+/artwork/clean-template/FUSE_1_safety_only.json
+/artwork/assets/starboard-cutout-alpha-check.json
+/artwork/assets/*preview.png
+/artwork/final/*_dark_proof.png
+/artwork/final/registration-edit.json
+/preview/render-manifest.json
+/artwork/baked/*manifest.json
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/

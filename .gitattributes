@@ -1,0 +1,18 @@
+* text=auto
+*.py text eol=lf
+*.ps1 text eol=crlf
+*.md text eol=lf
+*.json text eol=lf
+*.cfg text eol=crlf
+*.svg text eol=lf
+*.xcf binary
+*.png binary
+*.PNG binary
+*.jpg binary
+*.webp binary
+*.DDS binary
+*.zip binary
+
+# Preserve the exact validated package bytes and layout file sizes.
+package/** -text -whitespace
+deliverables/** -text

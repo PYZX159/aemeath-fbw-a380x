@@ -1,0 +1,35 @@
+{
+  "registration": "B-38AM (fictional)",
+  "theme": "AM-01",
+  "palette": {
+    "ivory": "#F2F5FA",
+    "crimson": "#172340",
+    "charcoal": "#101A2F",
+    "pink": "#EB87BA",
+    "cyan": "#8BDDF0"
+  },
+  "mapping": {
+    "Y": [
+      -38,
+      40
+    ],
+    "Z": [
+      -4,
+      20.375
+    ]
+  },
+  "port_eyes": {
+    "world": [
+      10.3,
+      3.35
+    ],
+    "source_px": [
+      530,
+      255
+    ],
+    "image_width_m": 18.0
+  },
+  "engine_projection": "2048x1024, local fore-aft, four independently numbered engines",
+  "wing_number": "transparent 2048x512",
+  "surface": "clean, no DIRT or SCUFF overlays"
+}

@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "flybywire-aircraft-a380-842",
+      "package_version": "2024.1.0"
+    }
+  ],
+  "content_type": "LIVERY",
+  "title": "Aemeath / AM-01 - Guiding Starlance B-38AM - FlyByWire A380X Stable",
+  "manufacturer": "Airbus",
+  "creator": "Eason",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.26.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "Initial Aemeath / AM-01 Guiding Starlance fictional repaint for the non-modular FlyByWire A380X Stable 2024.1.0. B-38AM is a fictional registration; themed flight number 001.",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000248941934"
+}

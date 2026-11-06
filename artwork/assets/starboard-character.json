@@ -1,0 +1,20 @@
+{
+  "filename": "aemeath_starboard_cutout.png",
+  "eyes_px": [
+    693,
+    450
+  ],
+  "width_m": 24.0,
+  "world_y": 13.0,
+  "world_z": 3.15,
+  "mirror": true,
+  "canvas_px": [
+    1300,
+    1080
+  ],
+  "crop_offset_px": [
+    0,
+    0
+  ],
+  "method": "GIMP original-pixel silhouette panel layer mask with 5px feather; no redraw, no upscale; main mech/girl kept; outer poster starfield removed"
+}

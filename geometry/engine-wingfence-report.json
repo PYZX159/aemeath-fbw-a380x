@@ -1,0 +1,1011 @@
+{
+  "A380_EXTERIOR_ENG_LH": {
+    "bounds": {
+      "min": [
+        12.895649909973145,
+        -12.8497896194458,
+        -3.190176010131836
+      ],
+      "max": [
+        27.73862075805664,
+        3.538681983947754,
+        1.4444220066070557
+      ],
+      "size": [
+        14.842970848083496,
+        16.388471603393555,
+        4.6345977783203125
+      ]
+    },
+    "uv_bounds": {
+      "min": [
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.9976480007171631,
+        0.9976029992103577
+      ],
+      "size": [
+        0.9976480007171631,
+        0.9976029992103577
+      ]
+    },
+    "faces": 44848,
+    "objects": [
+      "BottomProbe.001_Cylinder.401",
+      "BottomProbe.002_Cylinder.384",
+      "BottomProbe.005_Cylinder.325",
+      "BottomProbe.006_Cylinder.326",
+      "Bucket.001_Circle.246",
+      "Bucket_Circle.270",
+      "Circle.327_Circle.248",
+      "Circle.328_Circle.244",
+      "Circle.331_Circle.230",
+      "Circle.332_Circle.269",
+      "ConeHolder.003_Cylinder.393",
+      "ConeHolder.008_Cylinder.316",
+      "Cube.147_Cube.360",
+      "Cube.358_Cube.371",
+      "Cube.360_Cube.372",
+      "Cube.365_Cube.393",
+      "Cube.366_Cube.394",
+      "EngineBackSection.002_Circle.229",
+      "EngineBackSection_Circle.249",
+      "EngineStrap4.002_Cube.392",
+      "EngineStrap4.003_Cube.361",
+      "Fin.002_Cylinder.311",
+      "Fin_Cylinder.386",
+      "FrontCase.019_Cylinder.383",
+      "FrontCase.030_Cylinder.380",
+      "FrontCase.032_Cylinder.379",
+      "FrontCase.058_Cylinder.370",
+      "FrontCase.062_Cylinder.377",
+      "FrontCase.090_Cylinder.209",
+      "FrontCase.091_Cylinder.208",
+      "FrontCase.092_Cylinder.207",
+      "FrontCase.093_Cylinder.373",
+      "FrontCase.097_Cylinder.211",
+      "FrontCase.099_Cylinder.209",
+      "FrontCase.100_Cylinder.208",
+      "FrontCase.101_Cylinder.207",
+      "FrontCase.102_Cylinder.206",
+      "FrontCase.105_Cylinder.197",
+      "FrontCase.106_Cylinder.196",
+      "FrontCase.107_Cylinder.195",
+      "FrontCase.108_Cylinder.194",
+      "InnerShell.004_Cylinder.396",
+      "InnerShell.005_Cylinder.362",
+      "InnerShell.007_Cylinder.201",
+      "InnerShell.008_Cylinder.202",
+      "ReverserMount.002_Circle.228",
+      "ReverserMount_Circle.250",
+      "SmallRedButton.002_Cylinder.321",
+      "SmallRedButton_Cylinder.405",
+      "VentBlade1.001_Cube.362",
+      "VentBlade1.003_Cube.389"
+    ],
+    "clusters": {
+      "inner": {
+        "bounds": {
+          "min": [
+            12.895649909973145,
+            -12.8497896194458,
+            -3.190176010131836
+          ],
+          "max": [
+            16.850814819335938,
+            -4.437802791595459,
+            0.9253600239753723
+          ],
+          "size": [
+            3.955164909362793,
+            8.4119873046875,
+            4.115536212921143
+          ]
+        },
+        "uv_bounds": {
+          "min": [
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.9976480007171631,
+            0.9976029992103577
+          ],
+          "size": [
+            0.9976480007171631,
+            0.9976029992103577
+          ]
+        },
+        "faces": 22629
+      },
+      "outer": {
+        "bounds": {
+          "min": [
+            23.780181884765625,
+            -4.821122169494629,
+            -2.7043309211730957
+          ],
+          "max": [
+            27.73862075805664,
+            3.538681983947754,
+            1.4444220066070557
+          ],
+          "size": [
+            3.9584391117095947,
+            8.359804153442383,
+            4.1487531661987305
+          ]
+        },
+        "uv_bounds": {
+          "min": [
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.9976300001144409,
+            0.9944120049476624
+          ],
+          "size": [
+            0.9976300001144409,
+            0.9944120049476624
+          ]
+        },
+        "faces": 22219
+      }
+    },
+    "shared_uv_points_1e5_quantization": {
+      "common": 1786,
+      "inner_unique": 32630,
+      "outer_unique": 32098
+    }
+  },
+  "A380_EXTERIOR_ENG_RH": {
+    "bounds": {
+      "min": [
+        -27.73729705810547,
+        -12.8497896194458,
+        -3.190176010131836
+      ],
+      "max": [
+        -12.896967887878418,
+        3.532515048980713,
+        1.4386670589447021
+      ],
+      "size": [
+        14.840331077575684,
+        16.382305145263672,
+        4.628843784332275
+      ]
+    },
+    "uv_bounds": {
+      "min": [
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.9985669851303101,
+        0.9968559741973877
+      ],
+      "size": [
+        0.9985669851303101,
+        0.9968559741973877
+      ]
+    },
+    "faces": 43871,
+    "objects": [
+      "BottomProbe.003_Cylinder.407",
+      "BottomProbe.004_Cylinder.408",
+      "BottomProbe.007_Cylinder.513",
+      "BottomProbe.008_Cylinder.514",
+      "Bucket.014_Circle.256",
+      "Bucket.027_Circle.280",
+      "Circle.329_Circle.252",
+      "Circle.330_Circle.253",
+      "Circle.333_Circle.278",
+      "Circle.334_Circle.279",
+      "ConeHolder.005_Cylinder.411",
+      "ConeHolder.011_Cylinder.510",
+      "Cube.361_Cube.375",
+      "Cube.362_Cube.376",
+      "Cube.364_Cube.382",
+      "Cube.367_Cube.409",
+      "Cube.368_Cube.410",
+      "EngineBackSection.001_Circle.254",
+      "EngineBackSection.003_Circle.277",
+      "EngineStrap4.001_Cube.377",
+      "EngineStrap4.004_Cube.408",
+      "Fin.001_Cylinder.413",
+      "Fin.003_Cylinder.508",
+      "FrontCase.001_Cylinder.414",
+      "FrontCase.005_Cylinder.416",
+      "FrontCase.006_Cylinder.417",
+      "FrontCase.008_Cylinder.418",
+      "FrontCase.009_Cylinder.419",
+      "FrontCase.012_Cylinder.428",
+      "FrontCase.013_Cylinder.429",
+      "FrontCase.014_Cylinder.430",
+      "FrontCase.015_Cylinder.431",
+      "FrontCase.022_Cylinder.490",
+      "FrontCase.023_Cylinder.491",
+      "FrontCase.024_Cylinder.492",
+      "FrontCase.025_Cylinder.493",
+      "FrontCase.033_Cylinder.502",
+      "FrontCase.034_Cylinder.418",
+      "FrontCase.035_Cylinder.417",
+      "FrontCase.036_Cylinder.416",
+      "FrontCase.038_Cylinder.507",
+      "InnerShell.003_Cylinder.423",
+      "InnerShell.006_Cylinder.424",
+      "InnerShell.010_Cylinder.497",
+      "InnerShell.011_Cylinder.498",
+      "ReverserMount.001_Circle.255",
+      "ReverserMount.003_Circle.276",
+      "SmallRedButton.003_Cylinder.512",
+      "VentBlade1.002_Cube.380",
+      "VentBlade1.004_Cube.405"
+    ],
+    "clusters": {
+      "inner": {
+        "bounds": {
+          "min": [
+            -16.85213279724121,
+            -12.8497896194458,
+            -3.190176010131836
+          ],
+          "max": [
+            -12.896967887878418,
+            -4.437802791595459,
+            0.9253600239753723
+          ],
+          "size": [
+            3.955164909362793,
+            8.4119873046875,
+            4.115536212921143
+          ]
+        },
+        "uv_bounds": {
+          "min": [
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.998540997505188,
+            0.9968559741973877
+          ],
+          "size": [
+            0.998540997505188,
+            0.9968559741973877
+          ]
+        },
+        "faces": 21652
+      },
+      "outer": {
+        "bounds": {
+          "min": [
+            -27.73729705810547,
+            -4.837320804595947,
+            -2.7039740085601807
+          ],
+          "max": [
+            -23.778854370117188,
+            3.532515048980713,
+            1.4386670589447021
+          ],
+          "size": [
+            3.958444118499756,
+            8.36983585357666,
+            4.142641067504883
+          ]
+        },
+        "uv_bounds": {
+          "min": [
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.9985669851303101,
+            0.9953129887580872
+          ],
+          "size": [
+            0.9985669851303101,
+            0.9953129887580872
+          ]
+        },
+        "faces": 22219
+      }
+    },
+    "shared_uv_points_1e5_quantization": {
+      "common": 1786,
+      "inner_unique": 31245,
+      "outer_unique": 32128
+    }
+  },
+  "A380_EXTERIOR_WINGFENCE": {
+    "bounds": {
+      "min": [
+        -39.933837890625,
+        13.737735748291016,
+        0.9472640156745911
+      ],
+      "max": [
+        39.9338264465332,
+        16.752111434936523,
+        3.3536500930786133
+      ],
+      "size": [
+        79.86766052246094,
+        3.014375925064087,
+        2.406385898590088
+      ]
+    },
+    "uv_bounds": {
+      "min": [
+        0.004011999815702438,
+        0.011594999581575394
+      ],
+      "max": [
+        0.9963439702987671,
+        0.9680870175361633
+      ],
+      "size": [
+        0.9923319816589355,
+        0.956492006778717
+      ]
+    },
+    "faces": 2650,
+    "objects": [
+      "MAIN_WING.001_Wing.004",
+      "MAIN_WING.002_Wing.005",
+      "Obstruction_Light_Housing.001_Cube.174",
+      "Obstruction_Light_Housing.002_Cube.322"
+    ],
+    "clusters": {}
+  },
+  "A380_EXTERIOR_WING1": {
+    "bounds": {
+      "min": [
+        -6.645269870758057,
+        -17.04713249206543,
+        -1.6136120557785034
+      ],
+      "max": [
+        39.901546478271484,
+        16.577253341674805,
+        3.0800840854644775
+      ],
+      "size": [
+        46.546817779541016,
+        33.624385833740234,
+        4.693696022033691
+      ]
+    },
+    "uv_bounds": {
+      "min": [
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.9983490109443665,
+        0.99024498462677
+      ],
+      "size": [
+        0.9983490109443665,
+        0.99024498462677
+      ]
+    },
+    "faces": 55440,
+    "objects": [
+      "Cube.024_Cube.055",
+      "Cube.046_Cube.076",
+      "Cube.123_Cube.181",
+      "Cube.124_Cube.209",
+      "Cube.127_Cube.207",
+      "Cube.128_Cube.206",
+      "Cube.129_Cube.205",
+      "Cube.139_Cube.192",
+      "Cube.140_Cube.188",
+      "Cube.142_Cube.210",
+      "Cube.143_Cube.222",
+      "Cube.146_Cube.223",
+      "Cube.148_Cube.226",
+      "Cube.149_Cube.227",
+      "Cube.150_Cube.228",
+      "Cube.151_Cube.229",
+      "Cylinder.006_Cylinder.043",
+      "Cylinder.008_Cylinder.044",
+      "Cylinder.011_Cylinder.047",
+      "Cylinder.016_Cylinder.042",
+      "Cylinder.116_Cylinder.117",
+      "Cylinder.117_Cylinder.102",
+      "Cylinder.132_Cylinder.155",
+      "Cylinder.134_Cylinder.100",
+      "Cylinder.137_Cylinder.116",
+      "Cylinder.138_Cylinder.115",
+      "Cylinder.139_Cylinder.108",
+      "Cylinder.140_Cylinder.107",
+      "Cylinder.142_Cylinder.092",
+      "Cylinder.143_Cylinder.106",
+      "Cylinder.144_Cylinder.105",
+      "Cylinder.147_Cylinder.104",
+      "Cylinder.149_Cylinder.045",
+      "Cylinder.151_Cylinder.027",
+      "Cylinder.152_Cylinder.103",
+      "Cylinder.153_Cylinder.096",
+      "Cylinder.154_Cylinder.098",
+      "Cylinder.157_Cylinder.101",
+      "Cylinder.159_Cylinder.039",
+      "Cylinder.162_Cylinder.156",
+      "FUEL_PUMP_1_Cube.178",
+      "FUEL_PUMP_2_Cube.171",
+      "Fuel_Pump_Runner_2.001_Cube.173",
+      "Fuel_Pump_Runner_2_Cube.172",
+      "MFTF_5_Moveable.007_Cube.208",
+      "MFTF_5_Moveable.008_Cube.216",
+      "MFTF_5_Moveable.009_Cube.217",
+      "MFTF_5_Moveable.010_Cube.219",
+      "SPOILER_MESH3.2_LH_Cylinder.046",
+      "Static_Discharger.011_Cube.177",
+      "Static_Discharger.017_Cube.176",
+      "Static_Discharger_Cube.175"
+    ],
+    "clusters": {},
+    "underside": {
+      "faces": 12348,
+      "bounds": {
+        "min": [
+          -6.6361188888549805,
+          -16.884492874145508,
+          -1.6136120557785034
+        ],
+        "max": [
+          39.90108871459961,
+          16.577058792114258,
+          3.064013957977295
+        ],
+        "size": [
+          46.537208557128906,
+          33.461551666259766,
+          4.677626132965088
+        ]
+      },
+      "uv_bounds": {
+        "min": [
+          0.0,
+          0.0
+        ],
+        "max": [
+          0.9982399940490723,
+          0.9864299893379211
+        ],
+        "size": [
+          0.9982399940490723,
+          0.9864299893379211
+        ]
+      },
+      "span_bins": {
+        "10": {
+          "Y_min": -10.87,
+          "Y_max": 3.354,
+          "Z_min": -1.238,
+          "Z_max": 1.63
+        },
+        "15": {
+          "Y_min": -6.696,
+          "Y_max": 5.225,
+          "Z_min": 1.117,
+          "Z_max": 1.875
+        },
+        "20": {
+          "Y_min": -2.868,
+          "Y_max": 7.282,
+          "Z_min": 1.564,
+          "Z_max": 2.278
+        },
+        "22": {
+          "Y_min": -1.638,
+          "Y_max": 10.402,
+          "Z_min": 0.743,
+          "Z_max": 2.273
+        },
+        "25": {
+          "Y_min": 0.673,
+          "Y_max": 9.325,
+          "Z_min": 1.78,
+          "Z_max": 2.323
+        },
+        "28": {
+          "Y_min": 2.815,
+          "Y_max": 3.668,
+          "Z_min": 2.03,
+          "Z_max": 2.43
+        },
+        "30": {
+          "Y_min": 4.22,
+          "Y_max": 8.004,
+          "Z_min": 1.925,
+          "Z_max": 2.437
+        },
+        "32": {
+          "Y_min": 5.822,
+          "Y_max": 12.413,
+          "Z_min": 1.969,
+          "Z_max": 2.437
+        },
+        "35": {
+          "Y_min": 8.143,
+          "Y_max": 13.774,
+          "Z_min": 2.027,
+          "Z_max": 2.429
+        }
+      }
+    }
+  },
+  "A380_EXTERIOR_WING1_2": {
+    "bounds": {
+      "min": [
+        5.85277795791626,
+        -9.083273887634277,
+        -0.7769799828529358
+      ],
+      "max": [
+        38.91134262084961,
+        12.380593299865723,
+        2.398736000061035
+      ],
+      "size": [
+        33.058563232421875,
+        21.4638671875,
+        3.175715923309326
+      ]
+    },
+    "uv_bounds": {
+      "min": [
+        0.0033050000201910734,
+        0.00330400001257658
+      ],
+      "max": [
+        0.9966819882392883,
+        0.9934279918670654
+      ],
+      "size": [
+        0.9933769702911377,
+        0.990123987197876
+      ]
+    },
+    "faces": 34219,
+    "objects": [
+      "BezierCurve.163_BezierCurve.020",
+      "Cube.130_Cube.182",
+      "Cube.131_Cube.183",
+      "Cube.132_Cube.184",
+      "Cube.133_Cube.204",
+      "Cube.134_Cube.185",
+      "Cube.135_Cube.186",
+      "Cube.136_Cube.187",
+      "Cube.137_Cube.191",
+      "Cube.138_Cube.193",
+      "Cube.141_Cube.190",
+      "Cylinder.016_Cylinder.042",
+      "Cylinder.134_Cylinder.100",
+      "Cylinder.135_Cylinder.087",
+      "Cylinder.136_Cylinder.090",
+      "Cylinder.137_Cylinder.116",
+      "Cylinder.138_Cylinder.115",
+      "Cylinder.139_Cylinder.108",
+      "Cylinder.140_Cylinder.107",
+      "Cylinder.141_Cylinder.091",
+      "Cylinder.143_Cylinder.106",
+      "Cylinder.144_Cylinder.105",
+      "Cylinder.146_Cylinder.093",
+      "Cylinder.147_Cylinder.104",
+      "Cylinder.148_Cylinder.094",
+      "Cylinder.150_Cylinder.095",
+      "Cylinder.152_Cylinder.103",
+      "Cylinder.154_Cylinder.098",
+      "Cylinder.164_Cylinder.119",
+      "Nav_Light_Bracket.001_Plane.026",
+      "SPOILER_MESH3.2_LH_Cylinder.046"
+    ],
+    "clusters": {},
+    "underside": {
+      "faces": 6172,
+      "bounds": {
+        "min": [
+          5.864919185638428,
+          -9.083273887634277,
+          -0.7769799828529358
+        ],
+        "max": [
+          38.91134262084961,
+          12.367826461791992,
+          2.3919970989227295
+        ],
+        "size": [
+          33.046424865722656,
+          21.451099395751953,
+          3.168977975845337
+        ]
+      },
+      "uv_bounds": {
+        "min": [
+          0.0033100000582635403,
+          0.0033050000201910734
+        ],
+        "max": [
+          0.9952279925346375,
+          0.9934020042419434
+        ],
+        "size": [
+          0.9919180274009705,
+          0.9900969862937927
+        ]
+      },
+      "span_bins": {
+        "10": {
+          "Y_min": -0.443,
+          "Y_max": 1.863,
+          "Z_min": -0.716,
+          "Z_max": 0.991
+        },
+        "15": {
+          "Y_min": 1.432,
+          "Y_max": 2.544,
+          "Z_min": 1.344,
+          "Z_max": 1.776
+        },
+        "20": {
+          "Y_min": 3.742,
+          "Y_max": 4.826,
+          "Z_min": 1.721,
+          "Z_max": 2.048
+        },
+        "22": {
+          "Y_min": -1.474,
+          "Y_max": 7.226,
+          "Z_min": 0.818,
+          "Z_max": 2.264
+        },
+        "25": {
+          "Y_min": 0.715,
+          "Y_max": 7.149,
+          "Z_min": 1.847,
+          "Z_max": 2.228
+        },
+        "28": {
+          "Y_min": 8.78,
+          "Y_max": 8.842,
+          "Z_min": 1.984,
+          "Z_max": 1.998
+        },
+        "30": {
+          "Y_min": 4.712,
+          "Y_max": 5.108,
+          "Z_min": 2.097,
+          "Z_max": 2.366
+        },
+        "32": {
+          "Y_min": 6.734,
+          "Y_max": 6.998,
+          "Z_min": 2.213,
+          "Z_max": 2.369
+        }
+      }
+    }
+  },
+  "A380_EXTERIOR_WING2": {
+    "bounds": {
+      "min": [
+        -39.90153121948242,
+        -17.04713249206543,
+        -1.6136120557785034
+      ],
+      "max": [
+        -3.2207300662994385,
+        16.57725715637207,
+        3.080082893371582
+      ],
+      "size": [
+        36.68080139160156,
+        33.6243896484375,
+        4.693695068359375
+      ]
+    },
+    "uv_bounds": {
+      "min": [
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.9983299970626831,
+        0.9930409789085388
+      ],
+      "size": [
+        0.9983299970626831,
+        0.9930409789085388
+      ]
+    },
+    "faces": 55449,
+    "objects": [
+      "Cube.152_Cube.230",
+      "Cube.155_Cube.232",
+      "Cube.174_Cube.233",
+      "Cube.176_Cube.234",
+      "Cube.186_Cube.272",
+      "Cube.189_Cube.273",
+      "Cube.190_Cube.277",
+      "Cube.194_Cube.278",
+      "Cube.195_Cube.279",
+      "Cube.197_Cube.283",
+      "Cube.198_Cube.284",
+      "Cube.199_Cube.285",
+      "Cube.348_Cube.328",
+      "Cylinder.229_Cylinder.592",
+      "Cylinder.231_Cylinder.593",
+      "Cylinder.233_Cylinder.165",
+      "Cylinder.234_Cylinder.166",
+      "Cylinder.235_Cylinder.169",
+      "Cylinder.239_Cylinder.232",
+      "Cylinder.240_Cylinder.235",
+      "Cylinder.241_Cylinder.236",
+      "Cylinder.242_Cylinder.237",
+      "Cylinder.243_Cylinder.238",
+      "Cylinder.244_Cylinder.239",
+      "Cylinder.245_Cylinder.240",
+      "Cylinder.246_Cylinder.241",
+      "Cylinder.255_Cylinder.273",
+      "Cylinder.256_Cylinder.274",
+      "Cylinder.257_Cylinder.275",
+      "Cylinder.260_Cylinder.279",
+      "Cylinder.262_Cylinder.282",
+      "FUEL_PUMP_1.001_Cube.341",
+      "FUEL_PUMP_2.002_Cube.327",
+      "Fuel_Pump_Runner_2.002_Cube.325",
+      "Fuel_Pump_Runner_2.003_Cube.326",
+      "LIGHT_ASOBO_LandingLeft.001_Cylinder.591",
+      "MFTF_5_Moveable.011_Cube.235",
+      "MFTF_5_Moveable.012_Cube.274",
+      "MFTF_5_Moveable.013_Cube.275",
+      "MFTF_5_Moveable.014_Cube.276",
+      "Nav_Light_Bracket.002_Plane.037",
+      "SPOILER_MESH3.2_LH.001_Cylinder.280",
+      "Static_Discharger.018_Cube.320",
+      "Static_Discharger.019_Cube.321",
+      "Static_Discharger.020_Cube.346"
+    ],
+    "clusters": {},
+    "underside": {
+      "faces": 12267,
+      "bounds": {
+        "min": [
+          -39.90107345581055,
+          -16.884492874145508,
+          -1.6136120557785034
+        ],
+        "max": [
+          -3.2267770767211914,
+          16.577062606811523,
+          3.064013957977295
+        ],
+        "size": [
+          36.67429733276367,
+          33.46155548095703,
+          4.677626132965088
+        ]
+      },
+      "uv_bounds": {
+        "min": [
+          0.0,
+          0.0
+        ],
+        "max": [
+          0.9982680082321167,
+          0.9879549741744995
+        ],
+        "size": [
+          0.9982680082321167,
+          0.9879549741744995
+        ]
+      },
+      "span_bins": {
+        "10": {
+          "Y_min": -10.87,
+          "Y_max": 3.354,
+          "Z_min": -1.238,
+          "Z_max": 1.63
+        },
+        "15": {
+          "Y_min": -6.696,
+          "Y_max": 5.225,
+          "Z_min": 1.117,
+          "Z_max": 1.875
+        },
+        "20": {
+          "Y_min": -3.01,
+          "Y_max": 7.282,
+          "Z_min": 1.564,
+          "Z_max": 2.283
+        },
+        "22": {
+          "Y_min": -1.638,
+          "Y_max": 10.402,
+          "Z_min": 0.743,
+          "Z_max": 2.233
+        },
+        "25": {
+          "Y_min": 0.673,
+          "Y_max": 9.325,
+          "Z_min": 1.78,
+          "Z_max": 2.323
+        },
+        "30": {
+          "Y_min": 4.843,
+          "Y_max": 8.004,
+          "Z_min": 1.925,
+          "Z_max": 2.437
+        },
+        "32": {
+          "Y_min": 5.822,
+          "Y_max": 12.413,
+          "Z_min": 1.969,
+          "Z_max": 2.437
+        },
+        "35": {
+          "Y_min": 8.143,
+          "Y_max": 13.774,
+          "Z_min": 2.027,
+          "Z_max": 2.429
+        }
+      }
+    }
+  },
+  "A380_EXTERIOR_WING2_2": {
+    "bounds": {
+      "min": [
+        -38.22970962524414,
+        -9.083273887634277,
+        -0.7769799828529358
+      ],
+      "max": [
+        -5.852780818939209,
+        12.380590438842773,
+        2.430341958999634
+      ],
+      "size": [
+        32.376930236816406,
+        21.463863372802734,
+        3.207321882247925
+      ]
+    },
+    "uv_bounds": {
+      "min": [
+        0.003223000094294548,
+        0.0032220000866800547
+      ],
+      "max": [
+        0.9967179894447327,
+        0.9947800040245056
+      ],
+      "size": [
+        0.993494987487793,
+        0.9915580153465271
+      ]
+    },
+    "faces": 32520,
+    "objects": [
+      "BezierCurve.164_BezierCurve.021",
+      "Cube.153_Cube.231",
+      "Cube.179_Cube.268",
+      "Cube.181_Cube.269",
+      "Cube.182_Cube.270",
+      "Cube.183_Cube.271",
+      "Cube.353_Cube.331",
+      "Cube.354_Cube.332",
+      "Cube.355_Cube.333",
+      "Cube.356_Cube.337",
+      "Cube.357_Cube.339",
+      "Cylinder.230_Cylinder.162",
+      "Cylinder.239_Cylinder.232",
+      "Cylinder.240_Cylinder.235",
+      "Cylinder.241_Cylinder.236",
+      "Cylinder.242_Cylinder.237",
+      "Cylinder.243_Cylinder.238",
+      "Cylinder.244_Cylinder.239",
+      "Cylinder.245_Cylinder.240",
+      "Cylinder.246_Cylinder.241",
+      "Cylinder.248_Cylinder.266",
+      "Cylinder.249_Cylinder.267",
+      "Cylinder.250_Cylinder.268",
+      "Cylinder.260_Cylinder.279",
+      "Cylinder.262_Cylinder.282",
+      "LIGHT_ASOBO_LandingLeft.001_Cylinder.591",
+      "SPOILER_MESH3.2_LH.001_Cylinder.280"
+    ],
+    "clusters": {},
+    "underside": {
+      "faces": 5826,
+      "bounds": {
+        "min": [
+          -38.22970962524414,
+          -9.083273887634277,
+          -0.7769799828529358
+        ],
+        "max": [
+          -5.864922046661377,
+          12.36782455444336,
+          2.4293479919433594
+        ],
+        "size": [
+          32.36478805541992,
+          21.451099395751953,
+          3.2063279151916504
+        ]
+      },
+      "uv_bounds": {
+        "min": [
+          0.003223000094294548,
+          0.003223000094294548
+        ],
+        "max": [
+          0.9965670108795166,
+          0.9947180151939392
+        ],
+        "size": [
+          0.9933440089225769,
+          0.9914950132369995
+        ]
+      },
+      "span_bins": {
+        "10": {
+          "Y_min": -0.443,
+          "Y_max": 1.863,
+          "Z_min": -0.716,
+          "Z_max": 0.991
+        },
+        "15": {
+          "Y_min": 1.432,
+          "Y_max": 2.544,
+          "Z_min": 1.344,
+          "Z_max": 1.776
+        },
+        "20": {
+          "Y_min": 3.742,
+          "Y_max": 4.826,
+          "Z_min": 1.721,
+          "Z_max": 2.048
+        },
+        "22": {
+          "Y_min": -1.474,
+          "Y_max": 7.226,
+          "Z_min": 0.818,
+          "Z_max": 2.264
+        },
+        "25": {
+          "Y_min": 0.715,
+          "Y_max": 7.149,
+          "Z_min": 1.847,
+          "Z_max": 2.228
+        },
+        "28": {
+          "Y_min": 8.78,
+          "Y_max": 8.842,
+          "Z_min": 1.984,
+          "Z_max": 1.998
+        },
+        "30": {
+          "Y_min": 4.712,
+          "Y_max": 5.195,
+          "Z_min": 2.097,
+          "Z_max": 2.429
+        },
+        "32": {
+          "Y_min": 6.734,
+          "Y_max": 6.998,
+          "Z_min": 2.213,
+          "Z_max": 2.369
+        }
+      }
+    }
+  }
+}
