@@ -35,7 +35,7 @@ FlyByWire A380X — 爱弥斯 / Aemeath AM-01 Guiding Starlance 虚构痛机
 翼下机号使用 A380_EXTERIOR_WING1_ALBEDO.PNG.DDS；四张翼面贴图均已覆盖为干净版本。
 工作区中的 Update-PackageLayout.ps1 会先生成描述文件再更新索引。
 Validate-Package.ps1 为只读校验，不会安装、更新或覆盖游戏内容。
-文件校验通过不代表已完成模拟器内的视觉验收。
+本版另经用户完成 Microsoft Flight Simulator 2024 游戏内测试并确认发布。
 
 卸载
 退出模拟器，只移除独立的 aemeath-fbw-a380x-stable 文件夹。

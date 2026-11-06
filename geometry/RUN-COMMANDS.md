@@ -51,7 +51,7 @@ Final output names: `preview/aemeath-port.png`, `aemeath-starboard.png`, `aemeat
 - `wing_registration.png`: 2048×512 transparent B-38AM / AM-01 artwork.
 - `gear_code.png`: transparent AM / 01, normally512×128.
 
-Initial eye-placement check, pending final mask metadata: port uses source#02 (1200×1200), anchor(530,255), width18m, world(Y10.3,Z3.35). Its lower window band maps to original source y≈323–348; upper band≈146–166. Starboard source#07 (1300×1080), anchor(693,450), width24m, world(Y13.0,Z3.15), mirrored; lower band maps to source y≈495–515 and upper≈350–367. Human and robot eye locations appear clear; robot crown near Z6.8 may touch the fuselage top silhouette and requires the first model preview. Crop offsets must be applied from the actual GIMP cutout metadata.
+Final placement: port uses source#02 (1200×1200), anchor(530,255), width18m, world(Y10.3,Z3.35). Its lower window band maps to original source y≈323–348; upper band≈146–166. Starboard source#07 (1300×1080), anchor(693,450), width24m, world(Y13.0,Z3.15), mirrored; lower band maps to source y≈495–515 and upper≈350–367. Human and robot eyes were checked on the final model renders. Use the saved GIMP cutout metadata for any future rebuild.
 
 ## Timing on this machine
 
@@ -61,4 +61,4 @@ Initial eye-placement check, pending final mask metadata: port uses source#02 (1
 - Final five-view rendering at48samples: previous measured run48seconds; allow50–65seconds including startup/packing.
 - Whole bake-plus-render cycle: about2–3minutes, excluding GIMP composition, approval/review and design revisions.
 
-Rendering is a paintkit-model inspection. Simulator loading, LODs and opened-door animation remain separate checks.
+These timings describe the offline paintkit-model workflow. The user has completed Microsoft Flight Simulator 2024 in-simulator testing and confirmed publication of the finished livery.

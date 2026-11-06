@@ -38,4 +38,4 @@
 
 `Update-PackageLayout.ps1` 为 13 张 DDS 生成描述文件并更新索引；`Validate-Package.ps1` 只读检查包内容、尺寸、格式、完整 mipmap 和本机基础机模引用。
 
-预览是模型渲染，并非模拟器截图；独立涂装仍需要在游戏内试装确认。
+用户已完成 Microsoft Flight Simulator 2024 游戏内测试并确认发布。本页预览为成品贴图的模型渲染。

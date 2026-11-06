@@ -47,7 +47,7 @@ Pearl white, midnight blue, pink and cyan Aemeath-themed fictional repaint for F
 
 ## 校验与素材来源
 
-文件结构、13 张 DDS 的格式与 mipmap、描述文件、机号及基础机模引用已通过检查。预览为基于成品贴图的模型渲染，**尚未在模拟器内实测**。
+文件结构、13 张 DDS 的格式与 mipmap、描述文件、机号及基础机模引用已通过检查。**用户已完成 Microsoft Flight Simulator 2024 游戏内测试并确认发布。** 本页预览为基于成品贴图的模型渲染。
 
 [校验记录](VALIDATION.md) · [角色素材来源](references/SOURCES.md) · [第三方署名](THIRD-PARTY-NOTICES.md)
 
